@@ -1,0 +1,13 @@
+[request]
+assembly_url = "https://ubcsubbots.onshape.com/documents/5b5a7a655021c14f65d63346/w/8cea01e7b5d0a5d21f0623ce/e/cf13df9184526e12cdd8a1b4"
+
+[assembly]
+include_mate_features = false
+include_non_solids = false
+include_mate_connectors = false
+exclude_suppressed = false
+
+[parts]
+rollback_bar_index = -1
+infer_metadata_owner = true
+use_mass_property_overrides = false
